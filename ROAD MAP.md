@@ -62,3 +62,4 @@
 - Game automation tutorials
 [Advanced Image Search](https://www.youtube.com/watch?v=wIdcF6KUHIE) 
 - Pattern recognition techniques
+
